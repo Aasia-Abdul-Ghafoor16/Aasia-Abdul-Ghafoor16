@@ -16,7 +16,7 @@ Based in Karachi, Pakistan. I completed my intermediate education and have been 
 
 ## Projects
 
-**Aura Essence** — A fully animated luxury skincare brand website with glassmorphism product cards and a rose-gold design.
+**Aura Essence** — A fully animated luxury skincare brand website with glassmorphism product cards and a rose-gold design.(group project)
 
 
 **YolSafe** — A car insurance website where users can browse coverage plans and request quotes.
